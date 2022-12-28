@@ -1,4 +1,4 @@
-# Welcome to the Pokemon Game repository!
+# Pokemon Edhesive
 
 In this repository, you will find the files for a Pokemon-themed game created with RPG Maker XP in 2017. The game features an engaging storyline and a variety of Pokemon to catch and battle, as well as a variety of items and trainers to interact with. You may notice references to Hearthstone and Washington State locations in trainer dialogue and names throughout the game.
 
